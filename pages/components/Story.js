@@ -7,7 +7,7 @@ const Story = () => {
   return (
     <div className="relative w-[140px] h-[250px] cursor-pointer">
       <img
-        src={session.user?.image}
+        src="https://lh3.googleusercontent.com/a/ACg8ocKb5FQHX2pXMIinuhw670siA0BIT62r0CRjrsFikz9OF9s=s360-c-no"
         className="w-full h-[75%] object-center rounded-md hover:scale-105"
       ></img>
       <div className="absolute left-[40%] top-[70%] rounded-full bg-white p-1 inline">

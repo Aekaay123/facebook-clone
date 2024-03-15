@@ -7,7 +7,7 @@ const RightSideBar = () => {
       <div className="flex items-center space-x-2">
         <img
           className="w-[130px]"
-          src="https://scontent.fpbh2-1.fna.fbcdn.net/v/t45.1600-4/330486045_23853007237890640_7755935050788402440_n.png?stp=cp0_dst-jpg_p296x100_q90_spS444&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0zC6zkAxEC0AX_TOyE-&_nc_ht=scontent.fpbh2-1.fna&oh=00_AfA7-R0haFppTIpsGqDfs1C_FPLkK8oOuqfv-XnUsn55Lg&oe=65F1F2FC"
+          src="/footage.png"
         ></img>
         <p>Enhance video footage to 8k</p>
       </div>

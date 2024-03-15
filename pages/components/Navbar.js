@@ -48,7 +48,7 @@ const {data:session}=useSession()
           <div>
             <IoNotifications className="icon_wrapper text-[20px]"/>
           </div>
-          <img src={session.user?.image} className="w-12 rounded-full cursor-pointer">
+          <img src="https://lh3.googleusercontent.com/a/ACg8ocKb5FQHX2pXMIinuhw670siA0BIT62r0CRjrsFikz9OF9s=s360-c-no" className="w-12 rounded-full cursor-pointer">
           </img>
         </div>
       </div>

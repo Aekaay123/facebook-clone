@@ -30,7 +30,7 @@ const FeedPages = ({ profilePic, backgroundPic, pageName, time, caption }) => {
       <p className="text-md">{caption}</p>
 
       <div className="">
-        <img className="w-full h-[500px] rounded-lg" src={backgroundPic}></img>
+        <img className="w-full h-[500px] rounded-lg object-cover" src={backgroundPic}></img>
       </div>
       <div className="flex justify-between p-3">
         <button className="flex -gap-1">

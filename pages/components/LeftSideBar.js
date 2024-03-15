@@ -9,7 +9,7 @@ const LeftSideBar = () => {
     <div className="fixed w-[300px] ">
       <div className="flex flex-col space-y-4 bg-white">
         <LeftSideBarLink
-          image={session.user?.image}
+          image="https://lh3.googleusercontent.com/a/ACg8ocKb5FQHX2pXMIinuhw670siA0BIT62r0CRjrsFikz9OF9s=s360-c-no"
           text={session.user?.name}
         />
         <LeftSideBarLink image="/friends.png" text="Friends" />
